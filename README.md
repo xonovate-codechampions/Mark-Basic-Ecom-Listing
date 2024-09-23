@@ -1,2 +1,2 @@
 # Mark-Basic-Ecom-Listing
-This repository contains a basic eCommerce project developed by Mark William as part of the Xonovate Code Champions Program. 
+This repository contains a basic eCommerce project developed by Mark William as part of the Xonovate Code Champions Program. The project features product listings categorized into different sections, allowing users to browse items by category. Though simple in structure, this project demonstrates Mark's understanding of web development principles and the organization of eCommerce content. It serves as an excellent foundation for future enhancements like cart functionality and checkout systems.
